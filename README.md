@@ -1,10 +1,11 @@
+![logo](https://github.com/cssidhu0001/cssidhu0001/blob/main/Charanjeet%20Singh%20Sidhu.png)
 <h1 align="center">Hi 👋, I'm Charanjeet Singh Sidhu</h1>
 <h3 align="center">A passionate Tutor | Full Stack Developer | Software Engineer & Esteemed learner from India</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cssidhu0001&label=Profile%20views&color=0e75b6&style=flat" alt="cssidhu0001" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cssidhu0001" alt="cssidhu0001" /></a> </p>
 
+<img align="right" alt="Coding Gif Image | Coder" width="500"  src="https://github.com/cssidhu0001/cssidhu0001/blob/main/Coding%20Icon.gif" rel="noreferrer" />
 - 🌱 I’m currently learning **Android and Flutter**
 
 - 👯 I’m looking to collaborate on **DevOps & Fultter & ML Projects**
