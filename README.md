@@ -20,6 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://dev.to/https://dev.to/cssidhu0001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/cssidhu0001" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/charanjeet-singh-sidhu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="charanjeet-singh-sidhu" height="30" width="40" /></a>
 <a href="https://fb.com/charan-sidhu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="charan-sidhu" height="30" width="40" /></a>
 <a href="https://instagram.com/charansidhu13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="charansidhu13" height="30" width="40" /></a>
@@ -33,3 +34,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cssidhu0001&show_icons=true&locale=en" alt="cssidhu0001" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cssidhu0001&" alt="cssidhu0001" /></p>
+
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/https://buymeacoffee.com/charansidhu"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/charansidhu" /></a></p><br><br>
