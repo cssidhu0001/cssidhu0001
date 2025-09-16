@@ -8,7 +8,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cssidhu0001" alt="cssidhu0001" /></a> </p>
 
-<img align="right" alt="Coding Gif Image | Coder" width="300"  src="https://github.com/cssidhu0001/cssidhu0001/blob/main/Coding%20Icon.gif" rel="noreferrer" />
+<!--- <img align="right" alt="Coding Gif Image | Coder" width="300"  src="https://github.com/cssidhu0001/cssidhu0001/blob/main/Coding%20Icon.gif" rel="noreferrer" /> -->
+<img align="right" alt="Coding Gif Image | Coder" width="300"
+     src="https://github.com/cssidhu001/cssidhu0001/blob/main/Coding%20Icon.gif"
+     style="border-radius: 16px; box-shadow: 0 4px 16px rgba(0,0,0,0.2);"
+     rel="noreferrer" />
 - 🌱 I’m currently learning **Android and Flutter**
 
 - 👯 I’m looking to collaborate on **DevOps & Fultter & ML Projects**
