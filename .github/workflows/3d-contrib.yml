@@ -15,8 +15,8 @@ jobs:
         with:
           node-version: 18
 
-      - name: Install github-profile-3d-contrib from GitHub
-        run: npm install -g yoshi389111/github-profile-3d-contrib
+      - name: Install github-profile-3d-contrib
+        run: npm install -g github-profile-3d-contrib
 
       - name: Generate 3D Contribution Graph
         run: github-profile-3d-contrib --username cssidhu0001 --output ./profile-3d-contrib/profile-night-rainbow.svg
