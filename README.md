@@ -66,20 +66,17 @@
 
 ---
 
-## 🌍 3D Contribution Graph  
+## 🌍 3D Contribution Graph
 <p align="center">
-<img src="...profile-3d-contrib/profile-night-rainbow.svg" />
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" />
 </p>
 
----
-
-## 🐍 Snake Eating Contributions  
+## 🐍 Snake Contributions
 <p align="center">
-  <img src="https://raw.githubusercontent.com/cssidhu0001/cssidhu0001/output/github-contribution-grid-snake.svg" />
+  <img src="output/github-contribution-grid-snake.svg" />
 </p>
 
----
-
+----
 ## 💬 Random Dev Quote  
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
