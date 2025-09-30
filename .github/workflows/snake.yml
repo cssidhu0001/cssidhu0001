@@ -1,4 +1,4 @@
-name: 3D Contribution Graph
+name: Snake Contributions
 on:
   schedule:
     - cron: '0 0 * * *'  # Daily at 00:00 UTC
@@ -10,21 +10,15 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v3
+      - name: Generate Snake Contributions
+        uses: Platane/snk@v0.4.0
         with:
-          node-version: 18
-
-      - name: Install github-profile-3d-contrib
-        run: npm install -g github-profile-3d-contrib
-
-      - name: Generate 3D Contribution Graph
-        run: github-profile-3d-contrib --username cssidhu0001 --output ./profile-3d-contrib/profile-night-rainbow.svg
+          github_token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit & Push
         run: |
           git config --local user.name "github-actions"
           git config --local user.email "actions@github.com"
-          git add ./profile-3d-contrib/profile-night-rainbow.svg
-          git commit -m "Update 3D contribution graph"
+          git add output/github-contribution-grid-snake.svg
+          git commit -m "Update Snake Contributions"
           git push
