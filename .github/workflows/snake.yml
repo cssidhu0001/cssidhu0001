@@ -1,10 +1,9 @@
-mkdir -p .github/workflows
-cat > .github/workflows/snake.yml <<'YAML'
 name: Snake Contributions
+
 on:
   workflow_dispatch:   # allows manual run
   schedule:
-    - cron: '0 0 * * *'  # daily at 00:00 UTC
+    - cron: "0 0 * * *"  # daily at 00:00 UTC
 
 permissions:
   contents: write
@@ -38,8 +37,3 @@ jobs:
             git commit -m "Update Snake Contributions"
             git push
           fi
-YAML
-
-git add .github/workflows/snake.yml
-git commit -m "Add GitHub Actions workflow: snake contributions"
-git push origin main
