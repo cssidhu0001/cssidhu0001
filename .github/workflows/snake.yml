@@ -1,3 +1,5 @@
+mkdir -p .github/workflows
+cat > .github/workflows/snake.yml <<'YAML'
 name: Snake Contributions
 on:
   workflow_dispatch:   # allows manual run
