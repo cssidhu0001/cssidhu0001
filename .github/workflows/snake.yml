@@ -1,1 +1,43 @@
+name: Snake Contributions
+on:
+  workflow_dispatch:   # allows manual run
+  schedule:
+    - cron: '0 0 * * *'  # daily at 00:00 UTC
 
+permissions:
+  contents: write
+
+jobs:
+  generate-snake:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+          persist-credentials: true
+
+      - name: Generate Snake Contributions SVG
+        uses: Platane/snk@v0.4.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Show output (debug)
+        run: ls -la output || true
+
+      - name: Commit & Push (if changed)
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add output/github-contribution-grid-snake.svg || true
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update Snake Contributions"
+            git push
+          fi
+YAML
+
+git add .github/workflows/snake.yml
+git commit -m "Add GitHub Actions workflow: snake contributions"
+git push origin main
