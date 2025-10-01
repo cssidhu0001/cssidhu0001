@@ -1,7 +1,7 @@
 name: Snake Contributions
 
 on:
-  workflow_dispatch:   # allows manual run
+  workflow_dispatch:   # manual run
   schedule:
     - cron: "0 0 * * *"  # daily at 00:00 UTC
 
@@ -14,23 +14,18 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
-        with:
-          fetch-depth: 0
-          persist-credentials: true
 
       - name: Generate Snake Contributions SVG
         uses: Platane/snk@v3
         with:
+          github_user_name: cssidhu0001   # 👈 yeh jaroori hai
           github_token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Show output (debug)
-        run: ls -la output || true
 
       - name: Commit & Push (if changed)
         run: |
-          git config user.name "github-actions"
-          git config user.email "actions@github.com"
-          git add output/github-contribution-grid-snake.svg || true
+          git config user.name "Charanjeet Singh Sidhu"
+          git config user.email "sidhucharan53@gmail.com"
+          git add dist/github-contribution-grid-snake.svg || true
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
