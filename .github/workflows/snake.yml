@@ -19,7 +19,7 @@ jobs:
           persist-credentials: true
 
       - name: Generate Snake Contributions SVG
-        uses: Platane/snk@v0.4.0
+        uses: Platane/snk@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
 
