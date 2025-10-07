@@ -73,8 +73,11 @@
 
 ## 🐍 Snake Contributions
 <p align="center">
-  <img src="output/github-contribution-grid-snake.svg" />
-  ![snake gif](https://github.com/cssidhu0001/cssidhu0001/blob/output/snake.svg)
+  <!-- <img src="output/github-contribution-grid-snake.svg" />
+  ![snake gif](https://github.com/cssidhu0001/cssidhu0001/blob/output/snake.svg) -->
+![GitHub Snake Light](https://github.com/cssidhu0001/cssidhu0001/blob/output/snake.svg#gh-light-mode-only)
+![GitHub Snake dark](https://github.com/cssidhu0001/cssidhu0001/blob/output/snake-dark.svg#gh-dark-mode-only)
+
 </p>
 
 ----
