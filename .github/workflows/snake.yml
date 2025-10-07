@@ -1,34 +1,27 @@
-name: Snake Contributions
+name: Generate Snake
 
 on:
-  workflow_dispatch:   # manual run
   schedule:
-    - cron: "0 0 * * *"  # daily at 00:00 UTC
-
-permissions:
-  contents: write
+    - cron: "0 0 * * *"   # Daily run at midnight
+  workflow_dispatch:       # Manual trigger
 
 jobs:
-  generate-snake:
+  build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
+      - name: Checkout code
         uses: actions/checkout@v3
 
-      - name: Generate Snake Contributions SVG
+      - name: Generate snake.svg
         uses: Platane/snk@v3
         with:
-          github_user_name: cssidhu0001   # 👈 yeh jaroori hai
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_user_name: cssidhu0001   # 👉 yahan apna username likhna
+          outputs: dist/snake.svg
 
-      - name: Commit & Push (if changed)
-        run: |
-          git config user.name "Charanjeet Singh Sidhu"
-          git config user.email "sidhucharan53@gmail.com"
-          git add dist/github-contribution-grid-snake.svg || true
-          if git diff --staged --quiet; then
-            echo "No changes to commit"
-          else
-            git commit -m "Update Snake Contributions"
-            git push
-          fi
+      - name: Push snake.svg to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
