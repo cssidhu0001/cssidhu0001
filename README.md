@@ -70,13 +70,16 @@
 
 <div align="center">
 
-<!-- 🟢 Light theme -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cssidhu0001/cssidhu0001/main/profile-3d-contrib/profile-3d-dark.svg" />
-  <img alt="3D Contribution Graph - Light" src="https://raw.githubusercontent.com/cssidhu0001/cssidhu0001/main/profile-3d-contrib/profile-3d-light.svg" />
+  <!-- 🌚 Dark Theme -->
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cssidhu0001/cssidhu0001/main/profile-3d-contrib/profile-night-green.svg" />
+  
+  <!-- 🌞 Light Theme -->
+  <img alt="3D Contribution Graph - Light" src="https://raw.githubusercontent.com/cssidhu0001/cssidhu0001/main/profile-3d-contrib/profile-green-animate.svg" />
 </picture>
 
 </div>
+
 
 
 ## 🐍 Snake Contributions
