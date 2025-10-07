@@ -15,8 +15,10 @@ jobs:
       - name: Generate snake.svg
         uses: Platane/snk@v3
         with:
-          github_user_name: cssidhu0001   # 👉 yahan apna username likhna
-          outputs: dist/snake.svg
+          github_user_name: cssidhu0001
+          outputs: |
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
 
       - name: Push snake.svg to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
