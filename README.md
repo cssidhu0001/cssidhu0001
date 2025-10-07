@@ -66,7 +66,8 @@
 
 ---
 
-## 🌍 3D Contribution Graph
+## 🌐 3D Contribution Graph
+
 <div align="center">
 
 <!-- 🟢 Light theme -->
@@ -76,6 +77,7 @@
 </picture>
 
 </div>
+
 
 ## 🐍 Snake Contributions
 <p align="center">
