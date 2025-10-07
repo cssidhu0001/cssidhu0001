@@ -1,0 +1,8 @@
+{
+  "theme": "green",
+  "width": 1400,
+  "height": 420,
+  "isAnimate": true,
+  "showLanguagePie": true,
+  "languagePieRadius": 80
+}
