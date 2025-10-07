@@ -81,8 +81,6 @@
   <img src="https://raw.githubusercontent.com/cssidhu0001/cssidhu0001/output/snake-dark.svg#gh-dark-mode-only" alt="GitHub Snake Dark"/>
 </p>
 
-</p>
-
 ----
 ## 💬 Random Dev Quote  
 <p align="center">
