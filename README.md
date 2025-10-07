@@ -67,9 +67,15 @@
 ---
 
 ## 🌍 3D Contribution Graph
-<p align="center">
-  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="GitHub  3d Contribution Graph Generation Error!!" />
-</p>
+<div align="center">
+
+<!-- 🟢 Light theme -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cssidhu0001/cssidhu0001/main/profile-3d-contrib/profile-3d-dark.svg" />
+  <img alt="3D Contribution Graph - Light" src="https://raw.githubusercontent.com/cssidhu0001/cssidhu0001/main/profile-3d-contrib/profile-3d-light.svg" />
+</picture>
+
+</div>
 
 ## 🐍 Snake Contributions
 <p align="center">
