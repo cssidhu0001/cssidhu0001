@@ -57,7 +57,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/cssidhu0001/cssidhu0001/main/github-metrics.svg" alt="GitHub Metrics Dashboard" width="100%">
 </p>
-## 💬 Random Dev Quote
+
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
