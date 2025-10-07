@@ -7,7 +7,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Ubuntu&size=26&duration=3000&pause=500&color=53B14F&center=true&vCenter=true&width=900&lines=Passionate+Tutor;Full+Stack+Developer;Software+Engineer;Freelancer+%26+Lifelong+Learner;Exploring+AI+%7C+ML+%7C+DL+%26+DevOps" alt="Typing SVG" />
 </p>
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/cssidhu0001/cssidhu0001/main/github-metrics.svg" alt="GitHub Metrics Dashboard" width="100%">
+</p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=cssidhu0001&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
