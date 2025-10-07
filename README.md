@@ -68,7 +68,7 @@
 
 ## 🌍 3D Contribution Graph
 <p align="center">
-  <img src="profile-3d-contrib/profile-night-rainbow.svg" />
+  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="GitHub  3d Contribution Graph Generation Error!!" />
 </p>
 
 ## 🐍 Snake Contributions
