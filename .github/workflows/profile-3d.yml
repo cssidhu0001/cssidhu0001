@@ -2,7 +2,7 @@ name: GitHub-Profile-3D-Contrib
 
 on:
   schedule:
-    - cron: "0 18 * * *"    # once per day (change if you want)
+    - cron: "0 18 * * *"   # daily at 6 PM UTC (11:30 PM IST)
   workflow_dispatch:
 
 permissions:
@@ -11,25 +11,35 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: generate-github-profile-3d-contrib
+    name: Generate 3D contribution graphs (light & dark)
     steps:
       - name: Checkout
         uses: actions/checkout@v5
 
-      - name: Generate 3D contribution graph
+      # 🌞 Light Theme
+      - name: Generate Light Theme Graph
         uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: cssidhu0001
-          # If you create a settings JSON (optional), uncomment and set its path:
-          # SETTING_JSON: ./profile-3d-settings.json
+          THEME: light_green
+          OUTPUT_PATH: ./profile-3d-contrib/profile-3d-light.svg
+
+      # 🌚 Dark Theme
+      - name: Generate Dark Theme Graph
+        uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: cssidhu0001
+          THEME: dark_green
+          OUTPUT_PATH: ./profile-3d-contrib/profile-3d-dark.svg
 
       - name: Commit & Push
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add -A .
-          if git commit -m "generated: 3D contribution graph"; then
+          if git commit -m "Generated: 3D contribution graphs (light & dark)"; then
             git push
           else
             echo "No changes to commit"
