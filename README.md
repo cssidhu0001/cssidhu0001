@@ -75,8 +75,11 @@
 <p align="center">
   <!-- <img src="output/github-contribution-grid-snake.svg" />
   ![snake gif](https://github.com/cssidhu0001/cssidhu0001/blob/output/snake.svg) -->
-![GitHub Snake Light](https://github.com/cssidhu0001/cssidhu0001/blob/output/snake.svg#gh-light-mode-only)
-![GitHub Snake dark](https://github.com/cssidhu0001/cssidhu0001/blob/output/snake-dark.svg#gh-dark-mode-only)
+<!-- ![GitHub Snake Light](https://github.com/cssidhu0001/cssidhu0001/blob/output/snake.svg#gh-light-mode-only) -->
+<!-- ![GitHub Snake dark](https://github.com/cssidhu0001/cssidhu0001/blob/output/snake-dark.svg#gh-dark-mode-only) -->
+  <img src="https://raw.githubusercontent.com/cssidhu0001/cssidhu0001/output/snake.svg#gh-light-mode-only" alt="GitHub Snake Light"/>
+  <img src="https://raw.githubusercontent.com/cssidhu0001/cssidhu0001/output/snake-dark.svg#gh-dark-mode-only" alt="GitHub Snake Dark"/>
+</p>
 
 </p>
 
