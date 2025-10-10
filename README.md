@@ -41,8 +41,8 @@
 
 <!-- 🌗 3D Graph for Light/Dark -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cssidhu0001/cssidhu0001/main/profile-3d-contrib/profile-gitblock.svg" />
-  <img src="https://raw.githubusercontent.com/cssidhu0001/cssidhu0001/main/profile-3d-contrib/profile-gitblock.svg" alt="3D Contribution Graph" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cssidhu0001/cssidhu0001/main/profile-3d-contrib/profile-night-rainbow.svg" />
+  <img src="https://raw.githubusercontent.com/cssidhu0001/cssidhu0001/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
 </picture>
 
 <br/>
