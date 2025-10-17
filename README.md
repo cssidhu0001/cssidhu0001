@@ -13,6 +13,14 @@
 </p>
 
 ---
+## 🧠 About Me
+
+- 💻 I’m a **Full Stack Developer** who loves to build interactive & scalable applications  
+- 🧑‍🏫 Passionate about **teaching & mentoring** students  
+- 🚀 Exploring **AI | ML | DL | DevOps** and constantly learning new technologies  
+- ✍️ I enjoy contributing to **open-source**, solving real-world problems through code  
+- 📬 Reach me at **[charanjeet.sidhu@gursikhdevs.com](mailto:officialcharanjeetsinghsidhu@gmail.com)**  
+---
 
 ## 🛠 Languages & Tools
 
