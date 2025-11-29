@@ -13,8 +13,14 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=cssidhu0001&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
-
----
+<p align="center">
+  <a href="https://charanjeetsinghsidhu.vercel.app/" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/More%20About%20Me%20%7C%20VIEW%20MY%20PORTFOLIO-00E5FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000&color=00E5FF"
+      width="350"
+    />
+  </a>
+</p>
 ## 🧠 About Me
 
 - 💻 I’m a **Full Stack Developer** who loves to build interactive & scalable applications  
@@ -31,6 +37,8 @@
 </p>
 
 ---
+
+
 
 ## 📊 GitHub Analytics
 
