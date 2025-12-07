@@ -21,6 +21,7 @@
     />
   </a>
 </p>
+<!-- About Me Section  -->
 ## 🧠 About Me
 
 - 💻 I’m a **Full Stack Developer** who loves to build interactive & scalable applications  
