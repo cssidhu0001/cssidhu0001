@@ -1,7 +1,7 @@
 <!-- 🧠 Header Image -->
 ![logo](https://github.com/cssidhu0001/cssidhu0001/blob/main/Charanjeet%20Singh%20Sidhu.png)
 
-<!-- 👋 Intro Section -->
+
 <h1 align="center">👋 Hi, I'm <span style="color:#53b14f;">Charanjeet Singh Sidhu</span></h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Ubuntu&weight=600&size=22&duration=4000&pause=700&color=53B14F,00C9FF,0072FF,53B14F&center=true&vCenter=true&width=900&lines=Born+from+Struggle,+driven+by+doubt,+rising+by+will+!!+" alt="Animated Tagline" />
