@@ -102,3 +102,8 @@
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee" />
   </a>
 </p>
+
+
+<p align="center">
+  <i>✨ Crafted with passion by Charanjeet Singh Sidhu</i>
+</p>
