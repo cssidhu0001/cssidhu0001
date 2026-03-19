@@ -84,12 +84,17 @@
 
 ---
 
-## 🎧 Spotify Now Playing
+<h3 align="center">🚀 Let's Build Something Amazing Together</h3>
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false" />
+  Open for <b>collaborations</b>, <b>freelance projects</b>, and exciting opportunities <br/>
+  💬 Got an idea? Let’s bring it to life.
 </p>
 
----
+<p align="center">
+  <a href="mailto:officialcharanjeetsinghsidhu@gmail.com">
+    <img src="https://img.shields.io/badge/Let's%20Connect-00E5FF?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ## ☕ Support Me
 <p align="center">
