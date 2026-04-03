@@ -1,6 +1,13 @@
 
 ![logo](https://github.com/cssidhu0001/cssidhu0001/blob/main/Charanjeet%20Singh%20Sidhu.png)
 
+<!--Logo-->
+<!--Logo-->
+<!--Logo-->
+<!--Logo-->
+<!--Logo-->
+<!--Logo-->
+<!--Logo-->
 
 
 <h1 align="center">👋 Hi, I'm <span style="color:#53b14f;">Charanjeet Singh Sidhu</span></h1>
