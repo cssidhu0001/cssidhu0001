@@ -39,10 +39,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="449.2402020083461" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="449.2402020083461" y="0" width="6.480459548163139" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="455.72066155650924" y="0" width="4.1885974959092875" height="8" fill="#f7931e"/>
-                    <rect mask="url(#languages-bar)" x="459.9092590524185" y="0" width="0.09074094758144668" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="449.2402128721062" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="449.2402128721062" y="0" width="6.480453005088823" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="455.720665877195" y="0" width="4.188593266841195" height="8" fill="#f7931e"/>
+                    <rect mask="url(#languages-bar)" x="459.90925914403624" y="0" width="0.09074085596375213" height="8" fill="#89e051"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -216,7 +216,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1638 Commits
+                            1639 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
