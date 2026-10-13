@@ -101,5 +101,5 @@
 
 
 <p align="center">
-  <i>✨ Crafted with passion by Charanjeet Singh Sidhu</i>
+  <i>✨ Crafted with passion by   <a href="https://charanjeetsinghsidhu.vercel.app" target="_blank">Charanjeet Singh Sidhu</a></i>
 </p>
